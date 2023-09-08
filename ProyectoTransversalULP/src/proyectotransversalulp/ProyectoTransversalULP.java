@@ -11,15 +11,9 @@ package proyectotransversalulp;
  */
 public class ProyectoTransversalULP {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hola");
-        String f;
         
-        String superf;
         
         
     }
